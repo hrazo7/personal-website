@@ -1,0 +1,45 @@
+
+body {
+	background-color: #f8f8ff /*offwhite*/
+}
+
+.wrap {
+	position: fixed;
+	width: 100%
+	height: 100%;
+}
+
+
+.title {
+	text-align: center;
+	font-size: 200%;
+	margin-left: 20px;
+
+}
+
+.pic {
+	position: absolute;
+	left: 10px;
+	padding:10px 10px 10px 10px;
+}
+
+h2 {font-size: 25px;}
+
+.aboutMe {
+	position: absolute;
+	margin-left: 450px;
+	width: 600px;
+}
+
+h3 {font-size: 25px;}
+
+.contactMe {
+	position: absolute;
+	margin-left: 450px;
+	width: 600px;
+	top: 460px;
+}
+
+
+
+
